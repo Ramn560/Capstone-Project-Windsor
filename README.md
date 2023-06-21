@@ -1,2 +1,2 @@
 # Capstone-Project-Windsor
- Capstone
+The Transit Windsor Ridership and Bus Timings Prediction Project is a data analytics project that aims to predict the ridership and bus timings of the Transit Windsor system. The project utilizes machine learning models to predict future ridership and bus timings based on historical data. The project also includes a Tableau dashboard and a website that showcases the project findings.
